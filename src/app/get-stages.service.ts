@@ -38,12 +38,6 @@ private _GetStagesAPI = Url + "api/Stage/GetAllStages";
   }
 
 
-
-
-
-
-
-
     //to relode the table or data
     private _listners = new Subject<any>();
     listne(): Observable<any> {
